@@ -3,20 +3,20 @@
 # To run the application there are some prerequisites
 Ensure you have the following software installed on your system:
 
-Node.js (v14.x or higher)
-npm (v6.x or higher)
+Node.js (v14.x or higher),
+npm (v6.x or higher),
 MongoDB (v4.x or higher)
 
 # Installation
 Clone the Repository
 
 Open your VS-Code terminal and run the following command to clone the repository:
-"git clone https://github.com/yourusername/your-repository.git"
+"git clone https://github.com/21CHANCHAL21/Event_Management_System.git"
 
 # Navigate to the Project Directory
 
 Change into the project directory:
-cd your-repository
+"cd your-repository"
 
 # Install the required dependencies using npm:
 npm install
